@@ -1,0 +1,11 @@
+D:\Nitesh\Reference\c-\listArray\listArray\bin\Debug\netcoreapp2.1\listArray.deps.json
+D:\Nitesh\Reference\c-\listArray\listArray\bin\Debug\netcoreapp2.1\listArray.runtimeconfig.json
+D:\Nitesh\Reference\c-\listArray\listArray\bin\Debug\netcoreapp2.1\listArray.runtimeconfig.dev.json
+D:\Nitesh\Reference\c-\listArray\listArray\bin\Debug\netcoreapp2.1\listArray.dll
+D:\Nitesh\Reference\c-\listArray\listArray\bin\Debug\netcoreapp2.1\listArray.pdb
+D:\Nitesh\Reference\c-\listArray\listArray\obj\Debug\netcoreapp2.1\listArray.csprojAssemblyReference.cache
+D:\Nitesh\Reference\c-\listArray\listArray\obj\Debug\netcoreapp2.1\listArray.csproj.CoreCompileInputs.cache
+D:\Nitesh\Reference\c-\listArray\listArray\obj\Debug\netcoreapp2.1\listArray.AssemblyInfoInputs.cache
+D:\Nitesh\Reference\c-\listArray\listArray\obj\Debug\netcoreapp2.1\listArray.AssemblyInfo.cs
+D:\Nitesh\Reference\c-\listArray\listArray\obj\Debug\netcoreapp2.1\listArray.dll
+D:\Nitesh\Reference\c-\listArray\listArray\obj\Debug\netcoreapp2.1\listArray.pdb
